@@ -3,11 +3,11 @@ Delivery drivers location optimization with Causal Inference
 
 # Table of contents
 
-    ** Overview
-    ** Requirements
-    ** Install
-    ** Repository Structure
-    ** Contrbutors
+    Overview
+    Requirements
+    Install
+    Repository Structure
+    Contrbutors
 
 # Overview
 
@@ -37,7 +37,9 @@ git clone https://github.com/HenokD11/casual-inference.git
 cd Causal-Inference
 pip install -r requirements.txt
 
-Repository Structure
+
+
+# Repository Structure
 
 ├── .github/workflows(Github actions)
 │   
