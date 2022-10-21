@@ -1,0 +1,18 @@
+2022-10-21 22:26:08,606 : INFO : logger : Showing data information
+2022-10-21 22:26:39,154 : INFO : logger : Showing data information
+2022-10-21 22:30:31,434 : INFO : logger : Colums with missing values: ['Trip Start Time', 'Trip End Time']
+2022-10-21 22:30:49,317 : INFO : logger : Showing missing percentage
+2022-10-21 22:34:21,336 : INFO : logger : Colums with missing values: ['Trip Start Time', 'Trip End Time']
+2022-10-21 22:34:36,267 : INFO : logger : Showing datatypes
+2022-10-21 22:35:51,870 : INFO : logger : Showing data description
+2022-10-21 22:36:09,253 : INFO : logger : Dropped duplicates: Int64Index([], dtype='int64')
+2022-10-21 22:41:00,629 : INFO : logger : Plot a count plot.
+2022-10-21 22:55:12,880 : INFO : logger : Showing data information
+2022-10-21 22:55:13,035 : INFO : logger : Showing data information
+2022-10-21 22:55:14,424 : INFO : logger : Colums with missing values: ['Trip Start Time', 'Trip End Time']
+2022-10-21 22:55:14,568 : INFO : logger : Showing missing percentage
+2022-10-21 22:55:15,288 : INFO : logger : Colums with missing values: ['Trip Start Time', 'Trip End Time']
+2022-10-21 22:55:15,383 : INFO : logger : Showing datatypes
+2022-10-21 22:55:15,649 : INFO : logger : Showing data description
+2022-10-21 22:55:16,405 : INFO : logger : Dropped duplicates: Int64Index([], dtype='int64')
+2022-10-21 22:55:42,431 : INFO : logger : Plot a count plot.
