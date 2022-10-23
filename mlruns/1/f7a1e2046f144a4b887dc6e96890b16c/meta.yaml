@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/hp/casual-inference/notebooks/mlruns/1/f7a1e2046f144a4b887dc6e96890b16c/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f7a1e2046f144a4b887dc6e96890b16c
+run_uuid: f7a1e2046f144a4b887dc6e96890b16c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666559688690
+status: 1
+tags: []
+user_id: hp
